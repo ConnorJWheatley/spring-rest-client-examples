@@ -1,8 +1,6 @@
 package guru.springframework.api.domain;
 
 import java.io.Serializable;
-
-import java.io.Serializable;
 import java.util.HashMap;
 import java.util.Map;
 
